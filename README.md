@@ -2,4 +2,4 @@
 
 ![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=enzomv1999&show_icons=true&theme=transparent)
 
-![Snake Animation](https://github.com/enzomv1999/)
+
